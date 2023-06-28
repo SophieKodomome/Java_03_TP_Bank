@@ -1,0 +1,5 @@
+Retrait: 1000.0
+Depot: 0.0
+Solde: 99000.0
+Date: Tue Jun 27 14:11:28 EAT 2023
+
